@@ -4,7 +4,8 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%20%7C%2024.04-orange.svg)](https://ubuntu.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-ossza%2Fdnsaas-blue.svg)](https://github.com/ossza/dnsaas)
 
-One-click installer for DNS-over-HTTPS (DoH) with token-based authentication using `https_dns_proxy`. This guide will help you configure your Ubuntu system to use secure, encrypted DNS with token-based authentication.
+One-click installer for DNS-over-HTTPS (DoH) with token-based authentication using `https_dns_proxy`. http_dns_proxy can be found here: https://github.com/aarond10/https_dns_proxy
+This guide will help you configure your Ubuntu system to use secure, encrypted DNS with token-based authentication.
 
 ---
 
